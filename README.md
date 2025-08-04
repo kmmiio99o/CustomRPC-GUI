@@ -1,3 +1,6 @@
+# Discontinued, do to working on a bot project, which is getting used on [this](https://discord.gg/cYZPfXcBGB) server.
+Any forks, stars, usage is a good sign for me, so yeah ❤️
+---
 # CustomRPC-GUI
 
 ✨ **Your Own Discord Rich Presence at Your Fingertips!** ✨
